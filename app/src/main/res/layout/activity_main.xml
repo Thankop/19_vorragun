@@ -99,9 +99,12 @@
         style="@style/Widget.Design.NavigationView"
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
+        app:headerLayout="@layout/nav_header"
         app:menu="@menu/drawer_menu"
 
         />
+
+
 
 
 
